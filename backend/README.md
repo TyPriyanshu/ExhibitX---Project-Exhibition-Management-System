@@ -1,0 +1,1 @@
+Backend for ExhibitX v2. See .env.example and run npm install && npm run dev.
